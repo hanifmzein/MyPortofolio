@@ -1,0 +1,14 @@
+.pp {
+    margin-top: 50px;
+    width: 200px;
+    height: 200px;
+}
+
+i.icon-theme {
+    color: #1B5E20;
+}
+
+div.card-project {
+    padding-left: 20px;
+    padding-right: 20px;
+}

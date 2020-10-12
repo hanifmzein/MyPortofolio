@@ -1,0 +1,16 @@
+{
+  "name": "My Portofolio",
+  "short_name": "My Profile",
+  "description": "Portofolio Web Saya",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#00897B",
+  "theme_color": "#1B5E20",
+  "icons": [
+    {
+      "src": "/img/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

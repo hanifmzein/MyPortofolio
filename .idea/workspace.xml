@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8acf9d9b-c530-4f29-b2a2-0ced32de8538" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1icmwDRX8mznzrtvLZdTCqN3oZd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Programs\Web\MyPortofolio" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Programs\Web\MyPortofolio\img" />
+      <recent name="D:\Programs\Web\MyPortofolio\css" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8acf9d9b-c530-4f29-b2a2-0ced32de8538" name="Default Changelist" comment="" />
+      <created>1602215490431</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602215490431</updated>
+      <workItem from="1602215491454" duration="2595000" />
+      <workItem from="1602266704296" duration="4405000" />
+      <workItem from="1602370614724" duration="716000" />
+      <workItem from="1602430586768" duration="10592000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="718" y="310" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602437961259">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="718" y="310" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1602437961259" />
+    <state x="668" y="95" width="583" height="849" key="find.popup" timestamp="1602440640917">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="95" width="583" height="849" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1602440640917" />
+  </component>
+</project>
