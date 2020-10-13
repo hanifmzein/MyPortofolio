@@ -1,4 +1,4 @@
-const CACHE_NAME = "port-v6";
+const CACHE_NAME = "port-v8";
 var urlsToCache = [
     "/",
     "/nav.html",
@@ -17,7 +17,9 @@ var urlsToCache = [
     "/css/font-awesome.min.css",
     "/css/style.css",
     "/js/materialize.min.js",
-    "/js/nav.js"
+    "/js/nav.js",
+    "https://fonts.googleapis.com/icon?family=Material+Icons",
+    "https://cdn.materialdesignicons.com/5.6.55/css/materialdesignicons.min.css"
 ];
 
 self.addEventListener("install", function(event) {
